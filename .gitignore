@@ -33,3 +33,6 @@ Thumbs.db
 # Directories VS
 Release
 Debug
+ipch
+*.sdf
+*suo
